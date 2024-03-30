@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+scipy
+ipympl
+jupyterlite-sphinx>=0.13.1
+jupyterlite-pyodide-kernel
